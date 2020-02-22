@@ -1,0 +1,23 @@
+a / b / 5
+b / c / 4
+a / d / 7
+b / e / 3
+c / j / 6
+c / i / 6
+d / f / 2
+d / g / 8
+e / i / 4
+f / i / 5
+g / h / 6
+h / l / 2
+i / k / 7
+i / l / 4
+j / k / 2
+k / m / 2
+k / o / 8
+l / n / 3
+m / o / 4
+n / o / 6
+
+Hospital Node: a
+Airport Node: o
